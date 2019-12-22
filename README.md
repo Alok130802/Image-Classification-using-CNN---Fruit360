@@ -20,3 +20,7 @@ Number of classes: 120 (fruits and vegetables).
 Image size: 100x100 pixels.
 
 Paper Used : Mureșan, Horea & Oltean, Mihai. (2018). Fruit recognition from images using deep learning. Acta Universitatis Sapientiae, Informatica. 10. 26-42. 
+
+
+## Dataset properties ##
+  93 % categorical accuracy on Test data
